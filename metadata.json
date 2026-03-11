@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Football Tactical Search Engine",
+  "description": "Multimodal RAG application for analyzing football tactics using match videos, press conferences, and tactical PDFs.",
+  "requestFramePermissions": []
+}
